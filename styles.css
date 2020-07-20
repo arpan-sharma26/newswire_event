@@ -43,7 +43,6 @@ body{
     line-height: 0.5;
     left: 550px;
     bottom: 680px;
-    display: "inline"
 }
 
 #para2{
@@ -296,5 +295,5 @@ body {
 }
 
 p{
-    display: "inline"
+    display: inline
 }
