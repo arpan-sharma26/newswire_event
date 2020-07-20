@@ -9,7 +9,6 @@ body{
     margin-top: 0px;
     margin-left: 0px;
     background-color: black;
-    overflow: hidden;
 }
 
 .para{
@@ -73,7 +72,6 @@ html
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
 }
 
 #btn2{
